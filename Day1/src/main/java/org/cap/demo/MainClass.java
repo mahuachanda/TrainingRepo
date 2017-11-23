@@ -2,10 +2,9 @@ package org.cap.demo;
 
 public class MainClass {
 
-	public MainClass() {
-		// TODO Auto-generated constructor stub
-		Sales obj=new Sales();
-		
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		SalesClass obj =new SalesClass();
 		
 	}
 
