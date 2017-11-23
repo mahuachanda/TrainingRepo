@@ -6,6 +6,8 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		SalesClass obj =new SalesClass();
 		obj.display();
+		System.out.println("GoodEvening");
+		System.out.println("Happy Day");
 	}
 
 }
